@@ -1,10 +1,9 @@
 <resources>
-    <string name="app_name">k1</string>
+    <string name= "app_name">k1</string>
 
     <string-array name="conversion_types">
         <item>km to mi</item>
-        <item>mi to km</item>
-        <item>cm to in</item>
+ ]        <item>cm to in</item>
         <item>in to cm</item>
         <item>kg to lb</item>
         <item>lb to kg</item>
